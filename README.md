@@ -8,3 +8,5 @@ This is simply my take on creating an AI from descriptions and tutorials I read 
 1. The program will also display the actual output of the AI as well as the interpreted result ("the network thinks it's a...:") as well as the cost value and time to execute
 
 Please be aware the AI is not perfect. I haven't tested its accuracy but I'd say it's around 85% missing a few samples. In this case try again with another sample number! :)
+
+(the program was originally created in 2022 May but upload only in -||- October)
